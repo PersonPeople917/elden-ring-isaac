@@ -1,0 +1,42 @@
+[
+ {
+  "id": "run_start",
+  "purpose": "Empty loadout on new run",
+  "method": null,
+  "game_hook": null,
+  "verified": false,
+  "needs_pool": null
+ },
+ {
+  "id": "chest_pickup",
+  "purpose": "Chest gives random item",
+  "method": null,
+  "game_hook": null,
+  "verified": false,
+  "needs_pool": "run_items"
+ },
+ {
+  "id": "enemy_drop",
+  "purpose": "Enemies drop random item",
+  "method": null,
+  "game_hook": null,
+  "verified": false,
+  "needs_pool": "run_items"
+ },
+ {
+  "id": "stacking",
+  "purpose": "Same item stacks",
+  "method": null,
+  "game_hook": null,
+  "verified": false,
+  "needs_pool": "run_items"
+ },
+ {
+  "id": "run_reset",
+  "purpose": "Death resets run (later)",
+  "method": null,
+  "game_hook": null,
+  "verified": false,
+  "needs_pool": "run_items"
+ }
+]
