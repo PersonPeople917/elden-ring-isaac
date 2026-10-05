@@ -1,0 +1,24 @@
+[
+ {
+  "id": "monstro",
+  "isaac_name": "Monstro",
+  "er_name": "Gorged Tarnished",
+  "base_boss_npc_param_id": null,
+  "base_boss_name": null,
+  "hp_mult": null,
+  "dmg_mult": null,
+  "moves": [
+   "hop_slam",
+   "spit_volley",
+   "big_jump"
+  ],
+  "move_source_attack_ids": {
+   "hop_slam": null,
+   "spit_volley": null,
+   "big_jump": null
+  },
+  "arena_map_id": null,
+  "drop_pool": "run_items",
+  "drop_count": null
+ }
+]

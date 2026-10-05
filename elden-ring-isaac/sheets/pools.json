@@ -1,0 +1,10 @@
+[
+ {
+  "id": "run_items",
+  "kind": "item",
+  "source_param": null,
+  "roll_rule": "weighted_random_no_limit",
+  "chest_hook": "chest_pickup",
+  "enemy_hook": "enemy_drop"
+ }
+]
